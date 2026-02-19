@@ -1,0 +1,5 @@
+{
+  "name": "ProdMaster AI",
+  "description": "Application complète de gestion de production (MES) avec suivi OP, Machines, Stocks, Qualité et Analyse IA.",
+  "requestFramePermissions": []
+}
